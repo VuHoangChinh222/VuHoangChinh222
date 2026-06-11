@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there, I'm Vu Hoang Chinh 👋 
+### Embedded Systems Engineer & Full-Stack Developer
 
-<!--
-**VuHoangChinh222/VuHoangChinh222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An enthusiastic and versatile engineer passionate about bridging the gap between hardware and software. I specialize in embedded firmware, FPGA acceleration, and high-performance cross-platform application development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+
+### 🌌 Embedded Systems & Hardware
+* **Microcontrollers:** STM32 (Cortex-M1, M4, M7), ESP32
+* **Edge AI & Compute:** NVIDIA Jetson Nano/Xavier
+* **FPGA & SoC:** Xilinx Zynq-7020 (VHDL/Verilog, Vivado, Pynq)
+* **OS/Environment:** Linux (Ubuntu/Debian Embedded), FreeRTOS
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-032F62?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson" />
+  <img src="https://img.shields.io/badge/Xilinx%20Zynq-FF6600?style=for-the-badge&logo=xilinx&logoColor=white" alt="Zynq" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 🌐 Web Development
+* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, React
+* **Backend:** PHP, ASP.NET Core
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="NET" />
+</p>
+
+### 📱 Mobile & Desktop Apps
+* **Native & Low-Level:** Native C/C++, Java
+* **Cross-Platform:** React Native
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2F%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactNative" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VuHoangChinh222&show_icons=true&theme=tokyonight" alt="Chinh's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuHoangChinh222&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+* 🌐 **GitHub:** [github.com/VuHoangChinh222](https://github.com/VuHoangChinh222)
+* 📧 **Email:** *[Thay email của bạn vào đây]*
+* 💼 **LinkedIn:** *[Thay link LinkedIn của bạn vào đây (nếu có)]*
+
+"The best way to predict the future is to invent it." 🚀
