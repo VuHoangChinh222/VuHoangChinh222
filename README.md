@@ -57,7 +57,6 @@ An enthusiastic and versatile engineer passionate about bridging the gap between
 ## 📫 Let's Connect!
 
 * 🌐 **GitHub:** [github.com/VuHoangChinh222](https://github.com/VuHoangChinh222)
-* 📧 **Email:** *[Thay email của bạn vào đây]*
-* 💼 **LinkedIn:** *[Thay link LinkedIn của bạn vào đây (nếu có)]*
+* 📧 **Email:** *vuhoangchinh222@gmail.com*
 
 "The best way to predict the future is to invent it." 🚀
