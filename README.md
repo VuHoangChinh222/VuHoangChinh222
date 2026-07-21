@@ -44,12 +44,6 @@ An enthusiastic and versatile engineer passionate about bridging the gap between
 </p>
 
 ---
-### 📈 GitHub Stats
-
-![Chinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VuHoangChinh222&show_icons=true&theme=radical&include_all_commits=true)
-
-![Chinh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VuHoangChinh222&layout=compact&theme=radical)
----
 
 ## 📫 Let's Connect!
 
