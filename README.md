@@ -10,7 +10,7 @@ An enthusiastic and versatile engineer passionate about bridging the gap between
 ### 🌌 Embedded Systems & Hardware
 * **Microcontrollers:** STM32 (Cortex-M1, M4, M7), ESP32
 * **Edge AI & Compute:** NVIDIA Jetson Nano/Xavier
-* **FPGA & SoC:** Xilinx Zynq-7020 (VHDL/Verilog, Vivado, Pynq)
+* **FPGA & SoC:** Xilinx Zynq (VHDL/Verilog, Vivado, Pynq)
 * **OS/Environment:** Linux (Ubuntu/Debian Embedded), FreeRTOS
 
 <p align="left">
@@ -44,14 +44,6 @@ An enthusiastic and versatile engineer passionate about bridging the gap between
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VuHoangChinh222&show_icons=true&theme=radical&include_all_commits=true" alt="Chinh's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuHoangChinh222&layout=compact&langs_count=8&theme=radical" alt="Chinh's Top Languages" />
-</div>
-
 
 ## 📫 Let's Connect!
 
